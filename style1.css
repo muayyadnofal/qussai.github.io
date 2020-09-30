@@ -1,0 +1,32 @@
+.aside .logo a::before{
+	border-top: 4px solid #C90000;
+	border-left: 4px solid #C90000;
+}
+
+.aside .logo a::after{
+	border-bottom: 4px solid #C90000;
+	border-right: 4px solid #C90000;
+}
+
+.contact .contact-info-item .icon .fa,
+.about .about-content .about-text h3 span,
+body.dark .aside .nav li a:hover,
+body.dark .aside .nav li a.active,
+.aside .nav li a:hover,
+.aside .nav li a.active{
+	color: #C90000;
+}
+
+.aside .nav-toggler span{
+	background-color: #C90000;
+}
+
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-links a{
+	background-color: #C90000;
+}
